@@ -20,11 +20,6 @@ A simple and interactive Python weather app built with **Streamlit** and powered
 - Streamlit 
 - OpenWeatherMap API 
 
-## How to Run Locally
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Amarachi-flora/live-weather-checker.git
-
 
 
 ## How to Run Locally
