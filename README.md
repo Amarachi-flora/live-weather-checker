@@ -1,35 +1,31 @@
-# 🌦️ Live Weather Checker & Smart Notifier
+# 🌦️ Live Weather Checker App
 
-This project is a simple, interactive weather app built using **Python** and **Streamlit**, powered by the **OpenWeatherMap API**.
+A simple and interactive Python weather app built with **Streamlit** and powered by the **OpenWeatherMap API**. Users can check the live weather of any city in the world and receive friendly, helpful advice based on the conditions.
 
-It allows users to:
-- Enter the name of any city in the world
-- View real-time weather information like:
-  - Temperature (°C)
-  - Weather condition (e.g., Rain, Clear, Snow)
-  - Humidity
-  - Wind Speed
-- Get smart, friendly alerts based on the weather (e.g., "It might rain today, take your umbrella!")
-
----
+## App Link
+[Click here to use the app](https://live-weather-checker.streamlit.app/)
 
 ##  Features
+- Displays current temperature in °C
+- Weather condition (e.g., Clear, Rain, Snow)
+- Humidity level
+- Wind speed
+- Friendly and helpful alerts:
+  - “It's quite hot in Lagos today, drink enough water!”
+  - “It might rain in Nairobi, take your umbrella!”
+  - “It's chilly in Jos, dress warm!”
 
-- Clean and interactive user interface (Streamlit)
-- Real-time weather data (OpenWeatherMap API)
-- Personalized weather advice (e.g., hot, cold, rainy)
-- Deployed online using Streamlit Cloud
+## Built With
+- Python 
+- Streamlit 
+- OpenWeatherMap API 
 
----
+## How to Run Locally
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Amarachi-flora/live-weather-checker.git
 
-## Tech Stack
 
-- Python
-- Streamlit
-- OpenWeatherMap API
-- Git & GitHub
-
----
 
 ## How to Run Locally
 
@@ -37,3 +33,13 @@ It allows users to:
    ```bash
    git clone https://github.com/your-username/weather_web_app.git
    cd weather_web_app
+
+
+
+
+
+
+
+
+
+
